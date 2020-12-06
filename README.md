@@ -26,7 +26,7 @@ This project was completed as part of project requirements for the Udacity [Data
 Since the stakes in the film business are often very high, studio bosses, movie producers, and many others have been looking for a surefire way to turn their investment into big box office returns since the earliest days of the industry.
 A movie's box office and critical success, like that of any creative endeavor, is a combination of a large number of tangible and intangible elements. The onscreen chemistry of the main characters, the director's vision and execution, production values / special effects, and the movie's release timing are just a few of the components that can turn low- or no-budget indy flicks into huge blockbusters, or doom an expensively produced studio vehicle or even a 'surefire' sequel to crater at the box office.
 Can past movie release data provide us with a  'formula' to increase our chance of commercial success? Are there 'winning combinations' of actors, topics, directors, and genres? This project explores a database of 4,800 movies to first create a visual and quantitative intuition for potential patterns present in movie data and then attempts to create a machine-learning model to predict a movie's revenue.
-This project uses a pre-labeled data set generously provided by [Figure Eight](https://www.figure-eight.com/) that contains labeled disaster messages. 
+This project uses a data set generously provided by Kaggle and TMDB [here](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Ftmdb%2Ftmdb-movie-metadata)
 
 ## Implementation
 ### Summary 
