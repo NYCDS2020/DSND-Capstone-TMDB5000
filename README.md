@@ -29,6 +29,8 @@ A movie's box office and critical success, like that of any creative endeavor, i
 Can past movie release data provide us with a  'formula' to increase our chance of commercial success? Are there 'winning combinations' of actors, topics, directors, and genres? This project explores a database of 4,800 movies to first create a visual and quantitative intuition for potential patterns present in movie data and then attempts to create a machine-learning model to predict a movie's revenue.
 This project uses a data set generously provided by Kaggle and TMDB [here](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Ftmdb%2Ftmdb-movie-metadata)
 
+The related Medium article is available [here](https://medium.com/@bjorn.austraat/movie-revenue-prediction-what-can-data-tell-us-about-the-magic-formula-for-box-office-success-ab3fc2cbcd7a)
+
 ## Implementation
 ### Summary 
 A LGBMRegressor was trained using a supervised learning pipeline containing normalization steps (one-hot encoding, TFIDFVectorizer, log1p scaling) and a train/fit step. The regressor was then used to predict movie revenue for the holdout test set to evaluate performance and tuned using a Bayesian tuner. 
