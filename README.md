@@ -43,30 +43,29 @@ Based on the initial output, a Bayesian tuner is configured with a hyperparamete
 
 ## Files
 - data - folder containing source data
- - tmdb_5000_movies.csv - Movie metadata
- - tmdb_5000_credits.csv - Crew/cast metadata
+  - tmdb_5000_movies.csv - Movie metadata
+  - tmdb_5000_credits.csv - Crew/cast metadata
 - DSND-Capstone-StudioBossInABox.ipynb - Jupyter notebook containing end-to-end code including exploratory data anlysis, visualizations, model pipeline and results.
 - df_expanded_movies_plus_IMDB.p - A pickle file containing a dataframe already augmented with IMDB data. Load this dataframe by setting the load_from_file variable to True in the import section of the notebook. This will prevent the (time-consuming) BeautifulSoup script from running again. Set the flag to False if you'd like to run the BeautifulSoup script and create an updated version of this pickle file. 
 
 ## Project Screenshots
 Exploratory data analysis - Popularity vs. revenue
-!['Popularity vs. Revenue'](readme_imgs/pop_revenue.png)
+!['Popularity vs. Revenue'](/readme_imgs/pop_revenue.png)
 
 Exploratory data analysis - Movie production by country over time
-!['Movies by country / year'](readme_imgs/movies_by_year.png)
+!['Movies by country / year'](/readme_imgs/movies_by_year.png)
 
 Exploratory data analysis - Feature correlation
-!['Feature correlation'](readme_imgs/corr.png)
+!['Feature correlation'](/readme_imgs/corr.png)
 
 Exploratory data analysis - Genre-specific keyword WordCloud
-!['Western keywords'](readme_imgs/western.png)
+!['Western keywords'](/readme_imgs/western.png)
 
 Exploratory data analysis - Genre-specific keyword WordCloud
-!['Western keywords'](readme_imgs/western.png)
-
+!['Western keywords'](/readme_imgs/western.png)
 
 Model output - R2 scatterplot
-!['Example Output'](readme_imgs/initial_scatter.png)
+!['Example Output'](/readme_imgs/initial_scatter.png)
 
 
 
