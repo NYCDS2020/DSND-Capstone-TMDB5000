@@ -50,22 +50,22 @@ Based on the initial output, a Bayesian tuner is configured with a hyperparamete
 
 ## Project Screenshots
 Exploratory data analysis - Popularity vs. revenue
-!['Popularity vs. Revenue'](/readme_imgs/pop_revenue.png)
+!['Popularity vs. Revenue'](/readme-imgs/pop_revenue.png)
 
 Exploratory data analysis - Movie production by country over time
 !['Movies by country / year'](/readme-imgs/movies_by_year.png)
 
 Exploratory data analysis - Feature correlation
-!['Feature correlation'](/readme_imgs/corr.png)
+!['Feature correlation'](/readme-imgs/corr.png)
 
 Exploratory data analysis - Genre-specific keyword WordCloud
-!['Western keywords'](/readme_imgs/western.png)
+!['Western keywords'](/readme-imgs/western.png)
 
 Exploratory data analysis - Genre-specific keyword WordCloud
-!['Western keywords'](/readme_imgs/western.png)
+!['Western keywords'](/readme-imgs/western.png)
 
 Model output - R2 scatterplot
-!['Example Output'](/readme_imgs/initial_scatter.png)
+!['Example Output'](/readme-imgs/initial_scatter.png)
 
 
 
