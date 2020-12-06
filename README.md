@@ -58,10 +58,10 @@ Exploratory data analysis - Movie production by country over time
 Exploratory data analysis - Feature correlation
 !['Feature correlation'](/readme-imgs/corr.png)
 
-Exploratory data analysis - Genre-specific keyword WordCloud
+Exploratory data analysis - Genre-specific keyword WordCloud: Western
 !['Western keywords'](/readme-imgs/western.png)
 
-Exploratory data analysis - Genre-specific keyword WordCloud
+Exploratory data analysis - Genre-specific keyword WordCloud: Romance
 !['Romance keywords'](/readme-imgs/romance.png)
 
 Model output - R2 scatterplot
