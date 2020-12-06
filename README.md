@@ -42,11 +42,12 @@ Based on the initial output, a Bayesian tuner is configured with a hyperparamete
 
 
 ## Files
+- DSND-Capstone-StudioBossInABox.ipynb - Jupyter notebook containing end-to-end code including exploratory data anlysis, visualizations, model pipeline and results.
+- df_expanded_movies_plus_IMDB.p - A pickle file containing a dataframe already augmented with IMDB data. Load this dataframe by setting the load_from_file variable to True in the import section of the notebook. This will prevent the (time-consuming) BeautifulSoup script from running again. Set the flag to False if you'd like to run the BeautifulSoup script and create an updated version of this pickle file. 
 - data - folder containing source data
   - tmdb_5000_movies.csv - Movie metadata
   - tmdb_5000_credits.csv - Crew/cast metadata
-- DSND-Capstone-StudioBossInABox.ipynb - Jupyter notebook containing end-to-end code including exploratory data anlysis, visualizations, model pipeline and results.
-- df_expanded_movies_plus_IMDB.p - A pickle file containing a dataframe already augmented with IMDB data. Load this dataframe by setting the load_from_file variable to True in the import section of the notebook. This will prevent the (time-consuming) BeautifulSoup script from running again. Set the flag to False if you'd like to run the BeautifulSoup script and create an updated version of this pickle file. 
+- readme-imgs - Screenshots
 
 ## Project Screenshots
 Exploratory data analysis - Popularity vs. revenue
