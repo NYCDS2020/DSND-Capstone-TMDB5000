@@ -53,7 +53,7 @@ Exploratory data analysis - Popularity vs. revenue
 !['Popularity vs. Revenue'](/readme_imgs/pop_revenue.png)
 
 Exploratory data analysis - Movie production by country over time
-!['Movies by country / year'](/readme_imgs/movies_by_year.png)
+!['Movies by country / year'](readme_imgs/movies_by_year.PNG)
 
 Exploratory data analysis - Feature correlation
 !['Feature correlation'](/readme_imgs/corr.png)
