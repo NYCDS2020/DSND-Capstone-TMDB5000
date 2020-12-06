@@ -62,7 +62,7 @@ Exploratory data analysis - Genre-specific keyword WordCloud
 !['Western keywords'](/readme-imgs/western.png)
 
 Exploratory data analysis - Genre-specific keyword WordCloud
-!['Western keywords'](/readme-imgs/western.png)
+!['Romance keywords'](/readme-imgs/romance.png)
 
 Model output - R2 scatterplot
 !['Example Output'](/readme-imgs/initial_scatter.png)
